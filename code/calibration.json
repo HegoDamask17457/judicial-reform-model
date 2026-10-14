@@ -1,0 +1,9 @@
+{
+  "alpha2": 0.3,
+  "r0": 0.1,
+  "s_floor": 0.0,
+  "gamma_m": 0.336,
+  "gamma_j": 0.42,
+  "gamma_mj": 0.357,
+  "note": "Calibrated baseline (research note, Section 3). The model depends on reversal risk only through the product alpha2*r0, so (alpha2, r0) = (0.3, 0.1) is behaviorally identical to (0.1, 0.3); the former gives an observable reversal rate r(e_j) = 0.1*exp(-5 e_j) of about 4%."
+}

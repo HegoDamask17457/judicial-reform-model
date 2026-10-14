@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/checkpoints/
+note/*.aux
+note/*.log
+note/*.out
+OUTLINE.md

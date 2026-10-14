@@ -1,0 +1,15 @@
+[load] regime (N=100.0, eta=5.0): n_iter=97 final_resid=4.32e-10 converged=1 w_tau=0.000750
+[load] regime (N=100.0, eta=8.0): n_iter=94 final_resid=4.47e-10 converged=1 w_tau=0.000750
+[load] regime (N=150.0, eta=5.0): n_iter=99 final_resid=4.75e-10 converged=1 w_tau=0.000500
+[load] regime (N=150.0, eta=8.0): n_iter=97 final_resid=4.10e-10 converged=1 w_tau=0.000500
+[load] regime (N=125.0, eta=8.0): n_iter=96 final_resid=4.10e-10 converged=1 w_tau=0.000600
+[load] regime (N=200.0, eta=8.0): n_iter=98 final_resid=4.33e-10 converged=1 w_tau=0.000375
+[bss] (N=100.0, eta=5.0): B*=121.7866 conv=True |dB'/dB|=0.2341  adj_vol=37.25 s_bar=0.6607 rho_bar=0.3393 gd=0.6007
+[bss] (N=100.0, eta=8.0): B*=95.4563 conv=True |dB'/dB|=0.0501  adj_vol=0.03 s_bar=0.0040 rho_bar=0.9960 gd=0.7615
+[bss] (N=150.0, eta=5.0): B*=127.9305 conv=True |dB'/dB|=0.3662  adj_vol=41.22 s_bar=0.6584 rho_bar=0.3416 gd=0.7153
+[bss] (N=150.0, eta=8.0): B*=97.9154 conv=True |dB'/dB|=0.2771  adj_vol=5.13 s_bar=0.2823 rho_bar=0.7177 gd=0.8303
+[bss] (N=125.0, eta=8.0): B*=95.0553 conv=True |dB'/dB|=0.2286  adj_vol=2.62 s_bar=0.1906 rho_bar=0.8094 gd=0.8052
+[bss] (N=200.0, eta=8.0): B*=97.9305 conv=True |dB'/dB|=0.2509  adj_vol=8.94 s_bar=0.4325 rho_bar=0.5675 gd=0.8695
+[dec] DV=-32.1227 I1=18.6270 D_d=-15.6287 D_e=-34.1960 D_em=0.4036 Int=12.7061 S1_B=-0.5062 S2N2nd=-16.4668 S2pol=2.9419 S2_B=-0.0036 | checks 0.00e+00 0.00e+00 0.00e+00
+[dec] natural order: S1(eta first)=-37.2212 S2(N second)=5.0985 | reverse: S2p(N first)=3.9633 S1p(eta second)=-36.0860
+DONE: reform_cache.npz + reform_results.json written
